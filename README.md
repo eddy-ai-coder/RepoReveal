@@ -52,13 +52,14 @@ Browse the `docs/` directory to find comprehensive documentation for your favori
 
 ### For Contributors
 
-Want to add documentation for a new repository? See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+Want to add documentation for a new repository? 
 
 **Quick Start**:
-1. Choose a repository to document
-2. Use the templates in `templates/` as a starting point
-3. Follow the AI agent prompts in `agents/prompts/` to generate comprehensive documentation
-4. Submit a pull request with your documentation
+1. 📖 Read [QUICKSTART.md](./QUICKSTART.md) for a step-by-step guide on using AI agents
+2. 📋 Use the templates in `templates/` as a starting point
+3. 🤖 Follow the AI agent prompts in `agents/prompts/` to generate comprehensive documentation
+4. ✅ Review [CONTRIBUTING.md](./CONTRIBUTING.md) for quality guidelines
+5. 🚀 Submit a pull request with your documentation
 
 ## 📖 Documentation Structure
 
