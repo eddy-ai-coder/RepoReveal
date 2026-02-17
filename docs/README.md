@@ -4,7 +4,7 @@ This directory contains comprehensive documentation for well-known repositories.
 
 ## Available Documentation
 
-{Coming soon - documentation for popular repositories will be added here}
+Documentation for popular repositories is being added. In the meantime, you can explore the example projects in the [`examples/`](../examples/) directory for practical usage patterns and reference implementations.
 
 ## Documentation Structure
 
